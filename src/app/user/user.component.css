@@ -1,0 +1,17 @@
+.btn:disabled {
+    cursor: not-allowed;
+}
+
+.numberCircle {
+    padding: 35px;
+
+    border-radius: 51%;
+    width: 75px !important;
+    height: 75px !important;
+
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+
+    font: 32px Arial, sans-serif;
+}
